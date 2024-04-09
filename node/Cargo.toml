@@ -1,5 +1,5 @@
 [package]
-name = "node-template"
+name = "minibtc_network"
 description = "A solochain node template built with Substrate, part of Polkadot Sdk."
 version = "0.0.0"
 license = "MIT-0"

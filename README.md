@@ -1,6 +1,6 @@
 # UTXO on Substrate
 
-A UTXO chain implementation on Substrate, with two self-guided workshops.Original [UXTO inspiration](https://github.com/0x7CFE/substrate-node-template/tree/utxo) by [Dmitriy Kashitsyn](https://github.com/0x7CFE).
+A UTXO chain implementation on Substrate, with two self-guided workshops.Original [UXTO inspiration](https://github.com/0x7CFE/substrate-minibtc_network/tree/utxo) by [Dmitriy Kashitsyn](https://github.com/0x7CFE).
 
 Substrate Version: `2.0.0-alpha.5`. For educational purposes only.
 
